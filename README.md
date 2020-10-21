@@ -8,9 +8,9 @@
 
 ## Overview
 
-As etapas presentes nesse repositório geram as Matrizes de Movimentos Predecessores referentes a cada um dos tribunais disponíveis. Para tanto, são utilizados os arquivos JSON disponibilizados pela organização do Hackaton, que contêm os dados referentes aos processos judiciais cadastrados. Para tanto, os notebooks referentes a cada uma das quatro etapas devem ser executados de forma sequêncial em uma pasta contendo os arquivos JSON referentes a um determinado tribunal, sendo repetido o procedimento para todos os demais tribunais.
+Os "notebooks" presentes neste repositório geram as Matrizes de Movimentos Predecessores referentes a cada um dos tribunais disponíveis. Para tanto, são utilizados os arquivos JSON disponibilizados pela organização do Hackaton, que contêm os dados referentes aos processos judiciais cadastrados. Para tanto, os notebooks referentes a cada uma das quatro etapas devem ser executados de forma sequêncial em uma pasta contendo os arquivos JSON referentes a um determinado tribunal, sendo repetido o procedimento para todos os demais tribunais.
 
-Como exemplo, estão presentes nesse repositório os arquivos JSON referentes ao TJAC. Como "output" das etapas 01, 02, 03 e 04, são gerados os seguintes arquivos:
+Como exemplo, estão presentes neste repositório os arquivos JSON referentes ao TJAC. Como "output" das etapas 01, 02, 03 e 04, são gerados os seguintes arquivos:
 
   - dfPreliminar.csv
   - dfFinalCivel.csv
